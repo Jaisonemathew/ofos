@@ -1,4 +1,4 @@
-#How to run?
+# How to run?
 
 First install XAMPP server and open the installed directory 
 There you’ll find a folder naming “htdocs”.
