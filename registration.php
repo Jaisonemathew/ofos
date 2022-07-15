@@ -57,6 +57,7 @@ if(isset($_POST['submit'] ))
 	mysqli_query($db, $mql);
 	
 		 header("refresh:0.1;url=login.php");
+       echo "<script>alert('Acccount created succesfully');</script>"; 
     }
 	}
 
