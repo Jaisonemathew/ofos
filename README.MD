@@ -36,3 +36,5 @@ password: password
 1. Add a search box with search functionality for foods in 'index.php'
 
 # Screenshots
+
+![Screenshot](/screenshots/1.png?raw=true "Screenshot")
