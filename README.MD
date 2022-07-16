@@ -28,9 +28,11 @@ password: password
 1. Change all $ Symbols for price through the code to ₹ syimbol
 2. Change all stock photos
 3. Change all default resturant names and dishes names 
-4. Change usernames,dishes,resturants,user_orders in 'onlinefoodphp.sql' file
+4. Change usernames,dishes,resturants,user_orders and all prices in 'onlinefoodphp.sql' file
 5. Add support for WEBP extension in 'add_restaurant.php' 
 6. Add support for WEBP extension in 'add_menu.php'
 
 ## OPTIONAL
 1. Add a search box with search functionality for foods in 'index.php'
+
+# Screenshots
