@@ -41,7 +41,7 @@ if(isset($_POST['submit']))
 	
 					if($extension == 'jpg'||$extension == 'png'||$extension == 'gif' )
 					{        
-									if($fsize>=1000000)
+									if($fsize>=8000000)
 										{
 		
 		
