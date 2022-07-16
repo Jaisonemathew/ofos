@@ -25,7 +25,7 @@ password: password
 # TO-DO List
 
 ## MUST DO
-1. Change all $ Symbols for price through the code to ₹ syimbol
+1. Change all $ Symbols for price on admin pages to ₹ syimbol
 2. Change all stock photos
 3. Change all default resturant names and dishes names 
 4. Change usernames,dishes,resturants,user_orders and all prices in 'onlinefoodphp.sql' file
