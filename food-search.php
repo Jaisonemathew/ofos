@@ -121,7 +121,7 @@ session_start();
             <?php
             } else {
                 //Food Not Available
-                echo '<br><br><center><h2>No match found for what you are looking for</h2></center>';
+                echo '<br><br><center><h2>"No match found for what you are looking for"</h2></center>';
             }
 
             ?>

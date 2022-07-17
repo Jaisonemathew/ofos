@@ -33,7 +33,7 @@ password: password
 6. Add support for WEBP extension in 'add_menu.php'
 
 ## OPTIONAL
-1. <s>Add a search box with search functionality for foods in 'index.php' </s>?
+1. <s> Add a search box with search functionality for foods in 'index.php' </s>
 2. Include Header and Footer files in pages using include() 
 
 # Screenshots
