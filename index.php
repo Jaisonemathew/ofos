@@ -61,12 +61,19 @@ session_start();
             <div class="hero-inner">
                 <div class="container text-center hero-text font-white">
                     <h1>Order Delivery & Take-Out </h1>
-                    
-                    <div class="banner-form">
-                        <form class="form-inline">
-                          
+                     <!-- search option -->
+                     <div class="banner-form">
+                        <form class="form-inline"  action="<?php echo SITEURL; ?>" method="POST">
+                        <h5 class="font-white space-xs">What's on your mind ?</h5>
+                        <div class="form-group">
+                                <label class="sr-only" for="exampleInputAmount">I would like to eat....</label>
+                                <div class="form-group">
+                                <input type="text" class="form-control form-control-lg" name="search" placeholder="I would like to eat...."> </div>
+                            </div>
+                            <input type="submit" class="btn theme-btn btn-lg" name="submit" value="Search food">
                         </form>
                     </div>
+                    <!-- search option ends -->
                     <div class="steps">
                         <div class="step-item step1">
                             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 483 483" width="512" height="512">
@@ -119,8 +126,7 @@ session_start();
                                                     <h5><a href="dishes.php?res_id='.$r['rs_id'].'">'.$r['title'].'</a></h5>
                                                     <div class="product-name">'.$r['slogan'].'</div>
                                                     <div class="price-btn-block"> <span class="price">₹'.$r['price'].'</span> <a href="dishes.php?res_id='.$r['rs_id'].'" class="btn theme-btn-dash pull-right">Order Now</a> </div>
-                                                </div>
-                                                
+                                                </div>    
                                             </div>
                                     </div>';                                      
                                 }	
