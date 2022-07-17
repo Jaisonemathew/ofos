@@ -31,6 +31,8 @@ password: password
 4. Change usernames,dishes,resturants,user_orders and all prices in 'onlinefoodphp.sql' file
 5. Add support for WEBP extension in 'add_restaurant.php' 
 6. Add support for WEBP extension in 'add_menu.php'
+7. Add a new LOGO
+8. Change footer credits
 
 ## OPTIONAL
 1. <s> Add a search box with search functionality for foods in 'index.php' </s>
