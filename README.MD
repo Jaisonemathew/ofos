@@ -33,11 +33,11 @@ password: password
 6. Add support for WEBP extension in 'add_menu.php'
 7. Add a new LOGO
 8. Change footer credits
+9. Include Header and Footer files in pages using include() 
 
 ## OPTIONAL
 1. ~~<s> Add a search box with search functionality for foods in 'index.php' </s>~~
-2. Include Header and Footer files in pages using include() 
-3. Keeps the user loged-in even afer closing the browser
+2. Keeps the user loged-in even afer closing the browser
 
 # Screenshots
 
