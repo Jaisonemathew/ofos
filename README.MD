@@ -46,3 +46,9 @@ password: password
 ![Screenshot](/screenshots/3.png?raw=true "Screenshot")
 ![Screenshot](/screenshots/4.png?raw=true "Screenshot")
 
+# Recommanded tools to run
+1. [XAMPP](https://www.apachefriends.org/download.html)
+2. [Visual_Studio_Code](https://code.visualstudio.com/download)
+3. [Git](https://git-scm.com/download/win)
+4. [Github_Desktop](https://desktop.github.com/)
+
